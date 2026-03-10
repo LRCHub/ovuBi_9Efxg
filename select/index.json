@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嘘で殺して⋆。˚✩",
+  "base_artist": "angelize",
+  "createdAt": "2026-03-10T21:55:56.832954Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘で殺して⋆。˚✩",
+      "artist": "angelize",
+      "has_synced": false,
+      "path": "select/pl_01_嘘で殺して⋆。_̊✩_angelize.txt"
+    }
+  ]
+}
